@@ -1,0 +1,4 @@
+[core]
+    remote = abc-storage
+['remote "abc-storage"']
+    url = ../abc-storage
